@@ -1,0 +1,39 @@
+h1{
+    font-size:70px;
+    font-weight: 600;
+    color:black;
+    text-decoration-line: underline;
+    
+    
+}
+*{
+    font-size: large;
+    font-weight: 800;
+}
+table{
+    background-color: yellow;
+    border-color:blue;
+}
+
+/* #color{
+    background-color:darkorchid;
+}
+#yello{
+    background-color: greenyellow;
+}
+#nil{
+    background-color: aqua;
+}
+#bil{
+    background-color: darkcyan;
+}
+#gil{
+    background-color: darkorange;
+}
+
+#mil{
+    background-color: darkgreen;
+}
+#til{
+    background-color: darksalmon;
+} */
